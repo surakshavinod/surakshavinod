@@ -9,7 +9,7 @@ I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of 
 
 🚀 **Programming Languages:** Python, R, Bash, Linux Command Line Interface, Nextflow, Jupyter Notebook, HPC Cluster Interface
 
-🛠️ **Tools:** Maestro Desmond, PLINK, BCF/VCF Tools, GSEA, Git
+🛠️ **Tools:** PLINK, BCF/VCF Tools, GSEA, Git, AutoDock Vina, Maestro Desmond
 
 🔍 **Research and Project Expertise:**
 - Admixture
@@ -23,6 +23,7 @@ I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of 
 - Biostatistics
 - Pipeline Analysis and Development
 - Bioinformatics Tools, Databases, Software & Analysis
+- Bioinformatics File Formats
 - Genomics & Genetics
 - Molecular Docking and Dynamics Simulation
 
