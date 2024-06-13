@@ -2,8 +2,8 @@
 
 I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of Technology (Georgia Tech), Atlanta. My research interests include applying Bioinformatics and Computational Biology approaches to answer biological questions and the role genetics plays in precision medicine and predictive health.
 
-### Seeking Summer Internship Opportunities in Bioinformatics and/or Computational Biology
-🔍 Actively on the lookout for exciting Summer 2024 Internship opportunities in the fields of Bioinformatics and Computational Biology. Check out my GitHub for a glimpse of my projects and related work.
+### Seeking Co-op Opportunities in Bioinformatics and/or Computational Biology
+🔍 Actively on the lookout for exciting Co-op opportunities in the fields of Bioinformatics and Computational Biology. Check out my GitHub for a glimpse of my projects and related work.
 
 ### Skills
 
