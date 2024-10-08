@@ -37,6 +37,7 @@ I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of 
 ### Get in Touch
 
 Email: suraksha.vinlak@gmail.com
+
 Let's connect on [LinkedIn](https://www.linkedin.com/in/surakshavinod/).
 
 
