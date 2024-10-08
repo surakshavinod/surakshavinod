@@ -1,17 +1,24 @@
 # Hi there! 👋
 
-I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of Technology (Georgia Tech), Atlanta. My research interests include applying Bioinformatics and Computational Biology approaches to answer biological questions and the role genetics plays in precision medicine and predictive health.
+I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of Technology (Georgia Tech), Atlanta. I'm passionate about applying computational approaches to answer biological questions, which is why I am pursuing a degree in Bioinformatics. My research interests are varied and include precision medicine and predictive health (personalized medicine), cancer biology, ML in biology, human genomics, functional genomics and disease omics. I'm also interested in neurodegenerative disorders because of a familial connection.
 
-### Seeking Co-op Opportunities in Bioinformatics and/or Computational Biology
-🔍 Actively on the lookout for exciting Co-op opportunities in the fields of Bioinformatics and Computational Biology. Check out my GitHub for a glimpse of my projects and related work.
+### I'm applying for a PhD!
+🔍 To further my passion to make meaningful contributions to and advance the fields of Bioinformatics and Computational Biology, particularly personalized medicine and cancer biology, I'm applying for a PhD!
 
 ### Skills
 
-🚀 **Programming Languages:** Python, R, Bash, Linux Command Line Interface, Nextflow, Jupyter Notebook, HPC Cluster Interface
+#### Computational
+  **Programming:** Python, R, SQL**, MATLAB**, Nextflow**, Snakemake\*, JavaScript (D3.js) / HTML\*
+  
+  **Bioinformatics:** DESeq2, BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Admixture, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner, ChemDraw 
+  
+  **Libraries/Other:** Git, Bash (Linux), HPC, Docker\*, AWS\*, NumPy, Pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny, conda/miniconda, Jupyter Notebook, OpenRefine, Python Flask, Tableau\*, Microsoft Azure Machine Learning, API 
+    **Intermediate ; \*Beginner 
+  
+#### Experimental
+  Cell Culture, Biochemical Assays, Inhibition Assays, PCR, Titration
 
-🛠️ **Tools:** PLINK, BCF/VCF Tools, GSEA, Git, AutoDock Vina, Maestro Desmond
-
-🔍 **Research and Project Expertise:**
+### Research and Project Expertise
 - Admixture
 - Polgenic (Risk) Scores
 - Single Cell Analysis
@@ -29,9 +36,8 @@ I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of 
 
 ### Get in Touch
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/surakshavinod/).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/surakshavinod/).
 
-📫 Take a look at my [Resume](https://drive.google.com/file/d/1LZ8zGAbH0VOuObF1HdT_hn4fsjpnD7Cu/view?usp=sharing)
 
 
 Looking forward to discussing ideas, collaborating on projects, or simply chatting about biotech and innovation! 😊
