@@ -7,7 +7,7 @@ I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of 
 
 ### Skills
 
-#### Computational
+#### Computational:
   **Programming:** Python, R, SQL**, MATLAB**, Nextflow**, Snakemake\*, JavaScript (D3.js) / HTML\*
   
   **Bioinformatics:** DESeq2, BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Admixture, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner, ChemDraw 
@@ -15,7 +15,7 @@ I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of 
   **Libraries/Other:** Git, Bash (Linux), HPC, Docker\*, AWS\*, NumPy, Pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny, conda/miniconda, Jupyter Notebook, OpenRefine, Python Flask, Tableau\*, Microsoft Azure Machine Learning, API 
     **Intermediate ; \*Beginner 
   
-#### Experimental
+#### Experimental:
   Cell Culture, Biochemical Assays, Inhibition Assays, PCR, Titration
 
 ### Research and Project Expertise
