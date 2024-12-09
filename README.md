@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of Technology (Georgia Tech), Atlanta. I'm passionate about applying computational approaches to answer biological questions, which is why I am pursuing a degree in Bioinformatics. My research interests are varied and include precision medicine and predictive health (personalized medicine), cancer biology, ML in biology, human genomics, functional genomics and disease omics. I'm also interested in neurodegenerative disorders because of a familial connection.
+I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of Technology (Georgia Tech), Atlanta. I'm passionate about applying computational approaches to answer biological questions, which is why I am pursuing a degree in Bioinformatics. My research interests are varied and include precision medicine and predictive health (personalized medicine), cancer biology, ML in biology, human genetics and genomics, neurodegenerative disorders, functional genomics, and disease omics. My interest in cancer and neurodegenerative disorders is strongly driven from a familial connection.
 
 ### I'm applying for a PhD!
 🔍 To further my passion to make meaningful contributions to and advance the fields of Bioinformatics and Computational Biology, particularly personalized medicine and cancer biology, I'm applying for a PhD!
