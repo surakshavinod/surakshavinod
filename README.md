@@ -2,17 +2,14 @@
 
 I'm Suraksha Vinod, a Masters student in Bioinformatics at Georgia Institute of Technology (Georgia Tech), Atlanta. I'm passionate about applying computational approaches to answer biological questions, which is why I am pursuing a degree in Bioinformatics. My research interests are varied and include precision medicine and predictive health (personalized medicine), cancer biology, ML in biology, human genetics and genomics, neurodegenerative disorders, functional genomics, and disease omics. My interest in cancer and neurodegenerative disorders is strongly driven from a familial connection.
 
-### I'm applying for a PhD!
-🔍 To further my passion to make meaningful contributions to and advance the fields of Bioinformatics and Computational Biology, particularly personalized medicine and cancer biology, I'm applying for a PhD!
-
 ### Skills
 
 #### Computational:
-  **Programming:** Python, R, SQL**, MATLAB**, Nextflow**, Snakemake\*, JavaScript (D3.js) / HTML\*
+  **Programming:** Python, R, Bash (Linux/Unix), Git, SQL**, MATLAB**, Nextflow**, Snakemake\*, JavaScript (D3.js) / HTML\*
   
-  **Bioinformatics:** DESeq2, BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF Tools, Admixture, Annovar, SwissADME, OpenBabel, LigPlot+, CellDesigner, ChemDraw 
+  **Bioinformatics:** BLAST, Galaxy, AlphaFold, AutoDock Vina, Desmond, GSEA, PLINK, VCF/BCF/SAM Tools, Admixture, Annovar, UCSC Genome Browser, SwissADME, OpenBabel, LigPlot+, CellDesigner, ChemDraw 
   
-  **Libraries/Other:** Git, Bash (Linux), HPC, Docker\*, AWS\*, NumPy, Pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny, conda/miniconda, Jupyter Notebook, OpenRefine, Python Flask, Tableau\*, Microsoft Azure Machine Learning, API 
+  **Libraries/Other:** Git, Bash (Linux), HPC, Docker\*, AWS**, NumPy, Pandas, scikit-learn, Matplotlib, dplyr, tidyr, Seurat, DESeq2, ggplot2, survival, survminer, TCGAbiolinks, seaborn, shiny, conda/miniconda, Jupyter Notebook, OpenRefine, Python Flask, Tableau\*, Microsoft Azure Machine Learning, API 
     **Intermediate ; \*Beginner 
   
 #### Experimental:
